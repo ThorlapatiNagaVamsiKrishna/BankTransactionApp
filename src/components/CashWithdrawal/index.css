@@ -1,0 +1,64 @@
+.cash-Withdraw-container {
+  background-color: #150b3e;
+  border-radius: 10px;
+  margin: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 35px;
+}
+
+.user-details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.user-surname-logo {
+  background-color: #c7d2fe;
+  border-radius: 50px;
+  width: 100px;
+  height: 100px;
+  color: #7c3aed;
+  font-family: 'Bree Serif';
+  font-weight: bold;
+  margin-right: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 45px;
+}
+
+.user-name-heading {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #d4d2db;
+  font-size: 38px;
+}
+
+.user-bank-balance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.balance-enquiry-container {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: bold;
+  color: #382f5a;
+}
+
+.Withdraw-heading {
+  font-family: 'Roboto';
+  font-size: 38px;
+  font-weight: bold;
+  color: #d4d2db;
+}
+
+.balance-updation-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

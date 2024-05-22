@@ -1,0 +1,22 @@
+.transaction-update-button {
+  background-color: #382f5a;
+  border-style: solid;
+  border-color: #c4c4c4;
+  font-family: 'Roboto';
+  font-size: 28px;
+  font-weight: bold;
+  color: #d4d2db;
+  cursor: pointer;
+  height: 65px;
+  border-radius: 8px;
+  margin: 20px;
+  min-width: 300px;
+}
+
+.transaction-update-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  flex-grow: 1;
+  list-style-type: none;
+}
